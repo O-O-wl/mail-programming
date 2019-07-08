@@ -7,7 +7,3 @@
 //
 
 import Foundation
-
-func solution(array: [Int]) -> [Int] {
-    return []
-}
