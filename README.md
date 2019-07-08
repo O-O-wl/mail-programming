@@ -3,3 +3,5 @@
 
 <img width="281" alt="스크린샷 2019-07-08 오전 9 29 08" src="https://user-images.githubusercontent.com/39197978/60775930-0210cb00-a163-11e9-867c-607357320edd.png">
 [ 매일프로그래밍 ](https://mailprogramming.com)
+가이드라인 번역본
+[가이드라인 번역본](https://minsone.github.io/swift-internals/api-design-guidelines/?utm_source=soojinro&utm_medium=referral)
