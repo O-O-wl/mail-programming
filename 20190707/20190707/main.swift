@@ -19,12 +19,13 @@ import Foundation
 func solution(_ arr: [Int]) -> Int {
     var maxSum = arr[0];
     var currentSum = arr[0];
-    
+
     for e in arr[1..<arr.count] {
         currentSum = currentSum + e > e ? currentSum + e : e
         maxSum = currentSum > maxSum ? currentSum : maxSum
     }
     return maxSum
+
 }
 
 /// ===================================================================================
